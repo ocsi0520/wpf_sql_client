@@ -1,0 +1,13 @@
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Release\WpfApplication2.exe.config
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Release\WpfApplication2.exe
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Release\WpfApplication2.pdb
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\MainWindow.g.cs
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\App.g.cs
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2_MarkupCompile.cache
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2_MarkupCompile.lref
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\MainWindow.baml
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.g.resources
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.Properties.Resources.resources
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.exe
+C:\Users\Desktop\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.pdb
